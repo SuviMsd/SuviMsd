@@ -26,7 +26,7 @@ Here's a bit about me:
 -> Obtain relevant certifications in cybersecurity to further validate my expertise.
 
 📫 Let's Connect
-- LinkedIn: linkedin.com/in/muni-suvarchala-dalavai
+- LinkedIn: https://www.linkedin.com/in/muni-suvarchala-dalavai/
 - Email: suvarchala3105@gmail.com
 
 Feel free to reach out if you'd like to collaborate on projects, discuss cybersecurity, or just chat about technology! 😊
