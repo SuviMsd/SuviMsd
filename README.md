@@ -1,32 +1,52 @@
- Hi there! 👋 I'm Muni Suvarchala
+Hi there, I'm Muni Suvarchala Dalavai ! 👋
 
-I'm a 3rd-year Computer Science student passionate about cybersecurity and full-stack development. I enjoy exploring new technologies and constantly strive to improve my coding skills.
+About Me
 
-Here's a bit about me:
+I'm currently honing my skills as an **SDET Intern**, gaining hands-on experience across the full software development lifecycle. My focus is on bridging the gap between development and quality assurance, ensuring that solutions are not only functional but also stable and maintainable.
 
-🔭 Current Focus
--> Currently working on enhancing my skills in web application security.
--> Exploring full-stack development with a focus on building robust and scalable applications.
--> Actively seeking opportunities to contribute to open-source projects related to cybersecurity.
+-----
 
-🌱 I'm Currently Learning
--> Advanced topics in cybersecurity such as penetration testing, cryptography, and secure coding practices.
--> Modern web development frameworks like React.js and Vue.js for frontend development.
--> Backend technologies such as Node.js and Express.js for building scalable APIs.
+What I'm Working On
 
-💼 Skills
--> Programming Languages:Python, JavaScript, Java
--> Web Development:HTML/CSS, JavaScript
--> Cybersecurity:Penetration Testing, Cryptography, Network Security, Secure Coding Practices
--> Database: MySQL
+Here are a few highlights of the projects I've contributed to or developed:
 
- 🚀 Goals
--> Contribute to open-source projects that align with my interests in cybersecurity and full-stack development.
--> Secure an internship or job opportunity where I can apply my skills and continue learning.
--> Obtain relevant certifications in cybersecurity to further validate my expertise.
+Echo-wise: Community Engagement and Knowledge Sharing Platform
 
-📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/muni-suvarchala-dalavai/
-- Email: suvarchala3105@gmail.com
+Contributed to a web platform that fosters community creation, Q\&A, and discussions. This project involved leveraging **Spring Boot**, **Angular**, and **MySQL** to create a space for knowledge sharing within interest-based groups.
 
-Feel free to reach out if you'd like to collaborate on projects, discuss cybersecurity, or just chat about technology! 😊
+Restaurant Tip & Bill Calculator
+
+Engineered a web application for dynamic tip/bill calculation, featuring **real-time UI feedback** and **QR code generation**. This full-stack project utilized **HTML, CSS, JavaScript, Spring Boot, H2, JPA, and Hibernate ORM**.
+
+Online Food Ordering Platform 
+
+Developed a scalable backend system for a food ordering platform using **Spring Boot and MySQL**. I integrated key modules like user login, order management, restaurant operations, and delivery coordination, designing an optimized relational database schema for efficient data handling.
+
+-----
+
+My Toolkit
+
+Here are some of the technologies and tools I'm proficient with:
+
+   Languages: Java, HTML, CSS, JavaScript
+  Frameworks & Libraries: Spring Boot, Spring Core, Angular, Bootstrap
+  Database: MySQL, H2
+  Tools & Methodologies: Maven, Selenium, TestNG, Agile, Functional Testing, JPA, Hibernate ORM
+
+
+ Achievements
+
+  Finalist – SHECODE 2024 Coding Contest: Recognized as a top performer in a competitive coding event, solving real-world problems with efficient code.
+
+-----
+
+Let's Connect !
+
+I'm always open to discussing new opportunities and collaborating on exciting projects.
+
+  LinkedIn: [muni-suvarchala-dalavai](https://www.google.com/search?q=https://www.linkedin.com/in/muni-suvarchala-dalavai)
+  Email: suvarchala3105@gmail.com
+
+-----
+
+Thanks for visiting my profile ! Feel free to explore my repositories.
